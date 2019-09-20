@@ -61,6 +61,10 @@ NE TÁROLJ JELSZAVAKAT PLAIN TEXT-BEN! KÖSZÖNÖM!
 - [YouTube videó: Computerphile - How NOT to Store Passwords!](https://youtu.be/8ZtInClXe1Q)
 Amúgy ez egy nagyon jó csatorna. Mégtöbb backend-es videó itt található.
 
+#### Adatbázis
+
+- [Csáki példa C# programja MySQL-hez](https://github.com/ipari-programming/IKK-sql-debugger)
+
 ## Dokumentáció
 
 Ez itt egy MD fájl, amit olvasol. Ebbe írják a fejlesztői dokumentációt.
