@@ -17,9 +17,7 @@ HTML, CSS JavaScript. Várj mi? Igen. HTML-vel asztali programot.
 Tessék, itt van hogyan: [electron](https://electronjs.org/)
 (de ez kell hozzá:[node-js](https://nodejs.org/))
 Esetleg ha valami OOP nyelv érdekel, de weboldalt szeretnél,
-sajnos nem ismerek erre egyszeű megoldást.
-
-> // TODO C#-ban weboldal készítés
+sajnos nem ismerek erre egyszeű megoldást. ASP .NET?
 
 #### Mentor választás
 
