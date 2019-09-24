@@ -54,7 +54,7 @@ Nem a Google készítette, de az ő design nyelvükre alapszik.
 
 #### Jelszavak tárolása
 
-NE TÁROLJ JELSZAVAKAT PLAIN TEXT-BEN! KÖSZÖNÖM!
+# NE TÁROLJ JELSZAVAKAT PLAIN TEXT-BEN! KÖSZÖNÖM!
 
 - [YouTube videó: Computerphile - How NOT to Store Passwords!](https://youtu.be/8ZtInClXe1Q)
 Amúgy ez egy nagyon jó csatorna. Mégtöbb backend-es videó itt található.
