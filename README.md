@@ -56,6 +56,8 @@ Nem a Google készítette, de az ő design nyelvükre alapszik.
 
 # NE TÁROLJ JELSZAVAKAT PLAIN TEXT-BEN! KÖSZÖNÖM!
 
+- Csáki példa C# programja jelszó (de)kódoláshoz: még nincs feltöltve
+
 - [YouTube videó: Computerphile - How NOT to Store Passwords!](https://youtu.be/8ZtInClXe1Q)
 Amúgy ez egy nagyon jó csatorna. Mégtöbb backend-es videó itt található.
 
